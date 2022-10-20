@@ -33,14 +33,14 @@
   }
   
   .male {
-    border-color: steelblue;
-    background-color: steelblue;
-  }
-  
-  .female {
     border-color: pink;
     background-color: pink;
     color: #333;
+  }
+  
+  .female {
+    border-color: steelblue;
+    background-color: steelblue;
   }
   
   button {
